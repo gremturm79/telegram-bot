@@ -4,7 +4,7 @@ import time
 import logging
 from LibeAnekdot import anecdot
 
-TOKEN = '6110512466:AAGLXM2-C4XNzMu-VcDOPwmqYoX0DMGq_zE'
+TOKEN = ''
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
